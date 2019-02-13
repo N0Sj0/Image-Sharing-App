@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.8.1)
+  - JTMaterialSpinner (3.0.5)
+  - SwiftKeychainWrapper (3.2.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - JTMaterialSpinner (~> 3.0)
+  - SwiftKeychainWrapper
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - JTMaterialSpinner
+    - SwiftKeychainWrapper
+
+SPEC CHECKSUMS:
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  JTMaterialSpinner: 28a0444186b6b2df4206a77d12f7c9dcbe604958
+  SwiftKeychainWrapper: 82c4c02cdc36f9a24f7edfcaab3e336401caa1a1
+
+PODFILE CHECKSUM: c09d7ae2ab3e0f77ff07561dfc07722d755788e3
+
+COCOAPODS: 1.5.0
