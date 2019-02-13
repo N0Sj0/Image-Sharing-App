@@ -20,7 +20,7 @@ struct NetworkingTasks {
 }
 
 struct NetworkingConstants {
-    private static let baseUrl = "http://192.168.1.144:8000/"
+    private static let baseUrl = "http://http://127.0.0.1:8000/"
     private static let usersPath = "users/"
     private static let loginPath = "login/"
     private static let setProfileImagePath = "profile_image/"
